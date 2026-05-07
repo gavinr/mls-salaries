@@ -1,6 +1,6 @@
 # MLS Salary Data
 
-The Major League Soccer Players Union [publishes salary data](https://www.mlsplayers.org/salary_info.html) going back to 2007 — but as PDFs. This repository contains [CSVs parsed from those PDFs](csvs/).
+The Major League Soccer Players Union [publishes salary data](https://mlsplayers.org/resources/salary-guide) going back to 2007 — but as PDFs. This repository contains [CSVs parsed from those PDFs](csvs/).
 
 For some years, the MLSPU has published multiple salary PDFs; this repository contains only the most recent (i.e., latest-published) data for each year.
 
